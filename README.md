@@ -10,7 +10,7 @@ The data for this analysis is "wildfire Impacted Area Assignment.gdb" containing
 - ArcGisPro [Download here](https://pro.arcgis.com/en/pro-app/latest/get-started/download-arcgis-pro.htm)
 
 ### Result
-- Showing the Map archive and exported Layout1
+- Showing the exported Layout1 (Map package is too large)
 
 ### Reference
  - Coursera
