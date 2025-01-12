@@ -1,0 +1,1 @@
+# Wildfire-Impacted-Areas-in-CA
